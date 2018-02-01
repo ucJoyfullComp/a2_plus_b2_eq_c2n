@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="Diophantine" Database="">
+<CodeLite_Workspace Name="Diophantine" Database="" Version="10.0.0">
   <Project Name="a2_plus_b2_eq_c4" Path="a2_plus_b2_eq_c4/a2_plus_b2_eq_c4.project" Active="No"/>
   <Project Name="cln_a2b2c4" Path="cln_a2b2c4/cln_a2b2c4.project" Active="Yes"/>
+  <Project Name="testthreads" Path="testthreads/testthreads.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="a2_plus_b2_eq_c4" ConfigName="Debug"/>
       <Project Name="cln_a2b2c4" ConfigName="Debug"/>
+      <Project Name="testthreads" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="a2_plus_b2_eq_c4" ConfigName="Release"/>
       <Project Name="cln_a2b2c4" ConfigName="Release"/>
+      <Project Name="testthreads" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
